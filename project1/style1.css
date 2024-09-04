@@ -1,0 +1,93 @@
+*{
+    margin: 0;
+   box-sizing: border-box;
+}
+.heading{
+   /* max-width: 900px;
+    margin: 0 auto;*/
+    padding-top: 1%;
+    padding-bottom: 1%;
+    display: flex;
+    justify-content: space-between;
+    background-color:blue;
+    text-align: justify;
+    padding-left: 5%;
+    padding-right: 5%;
+    color: white;
+    font-size: large;
+    font-style:inherit;
+}
+.heading p{
+    padding-top: 2%;
+    padding-right: 10%;
+   }
+/*.image{
+    border: 1px  solid;
+    
+}*/
+img{
+   border: 1.1px solid ;
+}
+.main_content{
+    padding-top: 1%;
+    padding-left: 2%;
+    padding-right: 2%;
+    display: flex; 
+    
+}
+.main_content1{
+    display: flex;
+    justify-content:space-between;
+    padding-left: 2%;
+}
+hr{
+    border: 1.5px solid blue;
+    margin-right: 3%;
+}
+.lable{
+    padding-top: 3%;    
+    width: 200px;
+   text-align: center;
+}
+.content{
+    background-color:blue;
+    margin-top: 2%;
+    padding: 5px;
+    color: white;
+}
+
+.job_title_container{
+
+}
+.job_title_1{
+    display: flex;
+    gap: 20px;
+    padding-top: 1.5%;
+}
+.title1{
+    width: 25%;
+    text-align:end;
+}
+.job_title_2{
+    display: flex;
+    gap: 20px;
+    padding-top: 1.5%;
+}
+.title2{
+    width: 25%;
+    text-align:end;
+}
+.collage{
+    display: flex;
+    padding-top: 1.5%;
+    gap: 20px;
+}
+.collage_usa{
+    width: 20%;
+    text-align: end;
+}
+.communication{
+    padding: 20px 15px;
+    padding-left: 10%;
+
+}
